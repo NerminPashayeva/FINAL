@@ -1,0 +1,334 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@400;700&display=swap');
+
+body {
+    background-image: url(https://images01.nicepage.com/c461c07a441a5d220e8feb1a/d3e702a54ca8590fad0e1b93/a3e1f129-98b6-e3f1-c769-a621b6f771c9.png);
+}
+
+.navbar {
+    margin-top: 1rem;
+}
+
+header {
+    background-color: rgba(98, 87, 53, 0.4);
+    height: 5rem;
+}
+
+.contact button:hover {
+    transition: 0s;
+    border: 1px solid rgb(253, 192, 110);
+    background-color: rgb(253, 192, 110);
+}
+
+.contact button {
+    background-color: rgb(63, 98, 241);
+    width: 215px;
+    height: 70px;
+}
+
+.contact button a {
+    font-size: 14px;
+    line-height: 2px;
+    text-decoration: none;
+    color: white;
+}
+
+.girlimg {
+    background-image: url(https://images01.nicepage.com/c461c07a441a5d220e8feb1a/b0b37adcb83b50b091f12a2f/gjh.jpg);
+    background-size: cover;
+    background-position: 50%;
+    width: 325px;
+    height: 325px;
+    border-radius: 50%;
+    border: 12px solid rgb(255, 222, 174);
+    margin-top: 3rem;
+}
+
+.yazi h1 {
+    font-size: 75px;
+}
+
+.fontlar {
+    font-size: 16px;
+    letter-spacing: 1px;
+}
+
+.weightler {
+    letter-spacing: 1px;
+    font-weight: 400;
+}
+
+.blueimg {
+    margin-top: 100px;
+    width: 531px;
+    height: 450px;
+    left: 1.2rem;
+    position: absolute;
+}
+
+.blueimg1 {
+    margin-top: 100px;
+    width: 531px;
+    height: 450px;
+    left: 1.2rem;
+    bottom: 0px;
+    position: absolute;
+}
+
+.blueimg2 {
+    width: 531px;
+    height: 450px;
+    left: 7rem;
+    position: absolute;
+}
+
+.blueimg4 {
+    margin-top: 6.5rem;
+    width: 531px;
+    height: 450px;
+    left: 3.2rem;
+    position: absolute;
+}
+
+.buts1 a {
+    color: white;
+    text-decoration: none;
+}
+
+.buts2 a {
+    color: white;
+    text-decoration: none;
+}
+
+.buts1 a:hover {
+    color: white;
+}
+
+.buts2 a:hover {
+    color: white;
+}
+
+.buts1:hover {
+    background-color: #30469f;
+}
+
+.buts2:hover {
+    background-color: #30469f;
+}
+
+.buts {
+    width: 40%;
+    height: 15%;
+    font-size: 0.725rem;
+    color: #3F62F1;
+    background-color: white;
+    border-radius: 30px;
+
+}
+
+.buts1 {
+    margin-left: 18.5rem;
+    margin-bottom: 5rem;
+    width: 36%;
+    height: 15%;
+    font-size: 0.725rem;
+    background-color: #3F62F1;
+    border-radius: 30px;
+}
+
+.buts2 {
+    margin-bottom: 5rem;
+    width: 26%;
+    height: 15%;
+    font-size: 0.725rem;
+    background-color: #3F62F1;
+    border-radius: 30px;
+}
+
+.display {
+    display: inline-block;
+}
+
+.widths {
+    width: 80%;
+}
+
+.margin {
+    margin-left: 5rem;
+}
+
+.addblueimg {
+    position: absolute;
+    top: 180px;
+    left: 50px;
+    width: 440px;
+    border-radius: 20px;
+    height: 377px;
+    background-size: cover;
+    background-image: url(https://images01.nicepage.com/c461c07a441a5d220e8feb1a/4fa668d896fb5b41aa245b83/vbvbbv.jpg);
+}
+
+.forpt {
+    padding-top: 7rem;
+    padding-bottom: 7rem;
+}
+
+.togetherimg {
+    margin-bottom: 15rem;
+    position: relative;
+    display: flex;
+    justify-content: start;
+}
+
+.letspace {
+    letter-spacing: 1px;
+}
+
+.hoverimg {
+    width: 550px;
+    height: 300px;
+    background-size: cover;
+    transform: scale(1);
+    transition: 0.3s ease-in-out
+}
+
+.wrapper {
+    transition: 1s;
+}
+
+.wrapper:hover {
+    transform: scale(1.1);
+}
+
+.hoverimg {
+    overflow: hidden;
+
+}
+
+.wwd {
+    padding: 5% 10% !important;
+}
+
+.img1 {
+    width: 90%;
+    height: 352px;
+    background-size: cover;
+    background-position: 40%;
+    background-image: url(./c7d0df07-4138-42be-9d65-87e10eb4b975.jpeg);
+}
+
+.img2 {
+    background-size: cover;
+    background-position: 40%;
+    width: 90%;
+    height: 352px;
+    background-image: url(./file-healthy-beautiful-manicure_23-2148766533.jpg);
+}
+
+.img3 {
+    background-size: cover;
+    background-position: 40%;
+    width: 90%;
+    height: 352px;
+    background-image: url(./close-up-hand-holding-nail-file_23-2149171331.jpg);
+}
+
+.img4 {
+    background-size: cover;
+    background-position: 40%;
+    width: 90%;
+    height: 352px;
+    background-image: url(./h.jpg);
+}
+
+.img5 {
+    background-size: cover;
+    background-position: 40%;
+    width: 90%;
+    height: 352px;
+    background-image: url(./6f142438-7225-4968-a279-92cb5a44f953.jpeg);
+}
+
+.img6 {
+    background-size: cover;
+    background-position: 40%;
+    width: 90%;
+    height: 352px;
+    background-image: url(./woman-visiting-cosmetologist-making-rejuvenation-procedures_1303-26055.jpg);
+}
+
+.fonts {
+    font-family: 'Montserrat', sans-serif;
+}
+
+.addblueimg1 {
+    position: relative;
+    width: 333px;
+    height: 461px;
+    border-radius: 20px;
+}
+
+.part5 {
+    background-image: url(https://images01.nicepage.com/c461c07a441a5d220e8feb1a/0a633fee9520555a8f1d16dd/ii.png);
+}
+
+.addblueimg2 {
+    top: 50px;
+    left: 12rem;
+    width: 333px;
+    height: 461px;
+    background-position: left;
+    background-size: cover;
+    background-image: url(https://images01.nicepage.com/c461c07a441a5d220e8feb1a/04218ae963e45b9c8b08b0bb/jh.jpg);
+}
+
+.addblueimg3 {
+    position: absolute;
+    top: 8rem;
+    left: 50px;
+    border-radius: 20px;
+    background-size: cover;
+    background-image: url(https://images01.nicepage.com/c461c07a441a5d220e8feb1a/e48e5d304f6d5c32b8eca928/young-woman-doing-her-morning-routine_23-2148837463.jpg);
+}
+
+#part8 {
+    background-image: url(https://images01.nicepage.com/c461c07a441a5d220e8feb1a/9225a285e76f5453b87951f5/bvvbb.png);
+}
+
+#part9 {
+    width: 100%;
+    height: 702px;
+    background-color: #3F62F1;
+}
+
+.inputs {
+    background-color: white;
+    width: 492px;
+    height: 469px;
+    border-radius: 25px;
+    padding: 40px;
+}
+
+.inputscss {
+    padding: 10px;
+    border-radius: 20px;
+    background-color: #E5E5E5;
+    border: none;
+    width: 97%;
+}
+#part6{
+    margin-bottom:5%;
+}
+#part10 {
+    width: 100%;
+    height: 250px;
+    background-color: #333333;
+}#team{
+    margin-top: 5%;
+    margin-bottom: 5%;
+}
+#team h1{
+    text-align: center;
+    margin-bottom: 2%;
+    font-weight: bold;
+    color: #3F62F1;
+}
